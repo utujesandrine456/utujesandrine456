@@ -44,3 +44,9 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utujesandrine456&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utujesandrine456&layout=compact&theme=radical)
+
+
+---
+
+### 💡 My Philosophy
+> "I turn ideas into software, secure every system I touch, and solve challenges that others think are impossible." 💪
