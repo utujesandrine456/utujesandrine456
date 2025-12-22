@@ -1,5 +1,5 @@
 <!-- Welcome Banner with Typewriter Effect -->
-<h1 align="center">
+<h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=F7DF1E&center=true&vCenter=true&lines=Welcome+to+my+profile!+%F0%9F%91%8B;Young+FullStack+Developer;Cybersecurity+Enthusiast" />
 </h1>
 
