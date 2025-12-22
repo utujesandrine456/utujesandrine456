@@ -50,5 +50,5 @@
 
 ### 💡 My Philosophy
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=60&color=FFFFFF&center=true&vCenter=true&lines=I+turn+ideas+into+software,+secure+every+system,+and+solve+challenges+others+think+are+impossible" />
+  I turn ideas into software, secure every system I touch, and solve challenges that others think are impossible.
 </h1>
