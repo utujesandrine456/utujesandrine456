@@ -1,10 +1,7 @@
-<!-- Welcome Banner with Typewriter Effect -->
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&color=F7DF1E&center=true&vCenter=true&lines=Welcome+to+my+profile!+%F0%9F%91%8B;Young+FullStack+Developer;Cybersecurity+Enthusiast" />
-</h1>
-
+<!-- Welcome Banner -->
+<h1 align="center">Welcome to my profile! 👋</h1>
 <p align="center">
-  <i>Always Learning New Technologies | Passionate About Software & Cybersecurity</i>
+  <b>Young FullStack Developer | Always Learning New Technologies | Cybersecurity Enthusiast</b>
 </p>
 
 ---
@@ -38,7 +35,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/uwase-utuje-sandrine-5842b8386/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:utujesandrine456@gmail.com)  
 
-📱 **Let's Connect:** 0785805869  
+📱 **Phone:** 0785805869  
 🌐 **CN Portfolio:** [thecn.com/us222](https://www.thecn.com/us222)  
 🚀 **Project:** [TradeWise](https://tradewise-cyan.vercel.app/)
 
