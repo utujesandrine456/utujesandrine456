@@ -49,4 +49,5 @@
 ---
 
 ### 💡 My Philosophy
-> "I turn ideas into software, secure every system I touch, and solve challenges that others think are impossible." 💪
+![My Philosophy](https://img.shields.io/badge/-I_turn_ideas_into_software,_secure_every_system_I_touch,_and_solve_challenges_that_others_think_are_impossible.-blue?style=for-the-badge&logo=github)
+
