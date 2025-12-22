@@ -41,5 +41,4 @@
 
 ---
 
-### 🧮 Visitors
-![Visitor Count](https://profile-counter.glitch.me/utujesandrine/count.svg)
+
