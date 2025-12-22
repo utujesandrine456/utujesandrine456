@@ -29,17 +29,17 @@
 ---
 
 ### 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/humuraelvin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elvinhumura@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/utujesandrine456)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/uwase-utuje-sandrine-5842b8386/))
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utujesandrine456@gmail.com)
 
 ---
 
 ### 📊 GitHub Stats
-![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=humuraelvin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=humuraelvin&layout=compact&theme=radical)
+![Elvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=utujesandrine456&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utujesandrine456&layout=compact&theme=radical)
 
 ---
 
 ### 🧮 Visitors
-![Visitor Count](https://profile-counter.glitch.me/humuraelvin/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/utujesandrine/count.svg)
