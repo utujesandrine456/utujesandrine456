@@ -49,5 +49,6 @@
 ---
 
 ### 💡 My Philosophy
-![My Philosophy](https://img.shields.io/badge/-I_turn_ideas_into_software,_secure_every_system_I_touch,_and_solve_challenges_that_others_think_are_impossible.-blue?style=for-the-badge&logo=github)
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=60&color=FFFFFF&center=true&vCenter=true&lines=I+turn+ideas+into+software,+secure+every+system,+and+solve+challenges+others+think+are+impossible" />
+</h1>
