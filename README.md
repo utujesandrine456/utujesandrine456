@@ -36,6 +36,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:utujesandrine456@gmail.com)  
 
 📱 **Phone:** 0785805869  
+🌐 **Professional Portfolio:**https://utuje001.vercel.app/
 🌐 **CN Portfolio:** [thecn.com/us222](https://www.thecn.com/us222)  
 🚀 **Project:** [TradeWise](https://tradewise-cyan.vercel.app/)
 
@@ -50,5 +51,5 @@
 
 ### 💡 My Philosophy
 <h1 align="center">
-  I turn ideas into software, secure every system I touch, and solve challenges that others think are impossible.
+  I turn ideas into software and secure every system I touch
 </h1>
