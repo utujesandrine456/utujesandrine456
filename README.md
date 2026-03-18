@@ -37,7 +37,8 @@
 
 📱 **Phone:** 0785805869  
 🌐 **CN Portfolio:** [thecn.com/us222](https://www.thecn.com/us222)  
-🚀 **Project:** [TradeWise](https://tradewise-cyan.vercel.app/)
+🚀 **Project:** [[TradeWise](https://tradewise-cyan.vercel.app/)](https://utujedev.vercel.app/)
+    **Portfolio**: https://utujedev.vercel.app
 
 ---
 
