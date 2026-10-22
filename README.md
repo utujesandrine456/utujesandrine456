@@ -1,7 +1,7 @@
 <!-- Welcome Banner -->
 <h1 align="center">Welcome to my profile! 👋</h1>
 <p align="center">
-  <b>Young FullStack Developer | Always Learning New Technologies | Cybersecurity Enthusiast</b>
+  <b>Founder & CEO of AVENOR 10X Technologies | Cybersecurity Enthusiast</b>
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🔭 About Me
 - I’m currently studying at **Rwanda Coding Academy**  
 - I’m looking to collaborate on **frontend, backend & security projects**  
-- Always learning **Software Programming, Embedded Systems, Java Spring Boot & Laravel**  
+- Always learning **Software Programming, Embedded Systems, Java Spring Boot**  
 
 ---
 
@@ -37,7 +37,7 @@
 
 📱 **Phone:** 0785805869  
 🌐 **CN Portfolio:** [thecn.com/us222](https://www.thecn.com/us222)  
-🚀 **Project:** [[TradeWise](https://stocka-app.vercel.app/)]
+🚀 **AVENOR 10X:** [[Avenor](https://avenor-10x.onrender.com/)]
     **Portfolio**: [[[Explore](https://utujedev.vercel.app/)]
 
 ---
