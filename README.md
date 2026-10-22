@@ -8,8 +8,8 @@
 
 ### 🔭 About Me
 - I’m currently studying at **Rwanda Coding Academy**  
-- I’m looking to collaborate on **frontend, backend & security projects**  
-- Always learning **Software Programming, Embedded Systems, Java Spring Boot**  
+- I’m looking to collaborate on **business, frontend, backend & security projects**  
+- Always learning **Software Programming, Embedded Systems, Java Spring Boot**
 
 ---
 
